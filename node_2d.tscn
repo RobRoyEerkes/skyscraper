@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dse1nut3e4841"]
+
+[sub_resource type="CanvasItemMaterial" id="CanvasItemMaterial_4tuai"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Node2D" type="Node2D" parent="."]
+material = SubResource("CanvasItemMaterial_4tuai")
